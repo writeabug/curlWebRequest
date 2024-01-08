@@ -4,6 +4,8 @@
 
 
 使用方法：
+
+
         val web = WebUnity()//初始化
         web.setHeader("Cookie:123123=123123")//设置header
         web.setHeaderContentType("application/json")//设置header的content-type
